@@ -1,4 +1,4 @@
-security:
+global:
 systeminfo
-networkscan
+sysinfo
 send us
