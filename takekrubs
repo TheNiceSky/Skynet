@@ -1,7 +1,6 @@
 global:
 hostname
-takereels
-recordfull
+takereels:6:1
 
  
 
