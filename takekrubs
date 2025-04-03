@@ -1,5 +1,6 @@
-ring:GreenShepherds
-dir /b
-   
+global:
+hostname
+takereels:2
+takemeintoweb
  
  
