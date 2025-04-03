@@ -1,6 +1,9 @@
 global:
 hostname
-recordfull
+recordfull 30
+
+
+
  
  
  
